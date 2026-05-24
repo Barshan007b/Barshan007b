@@ -41,10 +41,11 @@
 ---
 
 ## 🏆 Achievements
-- GSSoC’26 Contributor
-- HackArena 2.0 Finalist
-- Open Source Contributor
-- Active Tech Community Member
+- 🥈 HackArena 2.0 Kolkata Zonal Finalist
+- 💻 GSSoC’26 Contributor
+- 🌟 Open Source Contributor
+- 🚀 Hackathon Enthusiast
+- 📊 Aspiring Data Analyst & AI Learner
 
 ---
 
